@@ -1,0 +1,11 @@
+.btn-yours {
+  color: white;
+  background-color: #07689f;
+  padding: 15px 50px;
+  border-radius: 30px;
+  font-weight: bold;
+}
+
+.btn-yours:hover {
+  opacity: 0.8;
+}

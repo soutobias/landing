@@ -1,0 +1,19 @@
+.banner {
+  background-image: url("../../images/antartica.jpg");
+  font-weight: bold;
+  padding: 150px;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-shadow: 2px 2px 10px rgba(0,0,0,1);
+  text-align: center;
+}
+.banner h1 {
+  font-size: 50px;
+}
+
+.banner p {
+  font-size: 20px;
+}
+
